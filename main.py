@@ -41,9 +41,9 @@ for match in matches:
         formatted_colors.append(hsla)
 
 print(set(formatted_colors))
-
-# Удаление файла
 if os.path.exists('style.css'):
     os.remove('style.css')
 else:
     print("CSS file not found.")
+
+input("...")
