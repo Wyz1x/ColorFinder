@@ -19,8 +19,8 @@
 
 ## 🧰 Installation
 #### Windows
-Install Python3
-Install the project from this repository
+- Install Python3
+- Install the project from this repository
 
 CD to project path and run this command:
 ```bash
@@ -45,7 +45,7 @@ git clone https://github.com/Wyz1x/ColorFinder.git
 cd ColorFinder
 pip3 install -r requirements.txt
 ```
-#### If you using Homebrew
+#### If you using Homebrew (macOS)
 ---
 ## ⌨️Using
 Windows/Linux/MacOS
